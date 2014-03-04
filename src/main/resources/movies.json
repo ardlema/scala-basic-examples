@@ -1,0 +1,32 @@
+[
+    {
+        "userId": "1",
+        "movies": [
+            {
+                "title": "Clerks",
+                "year": 1994
+            },
+            {
+                "title": "Ghostbusters",
+                "year": 1984
+            }
+        ]
+    },
+    {
+        "userId": "2",
+        "movies": [
+            {
+                "title": "Gladiator",
+                "year": 2000
+            },
+            {
+                 "title": "Full Metal Jacket",
+                 "year": 1987
+            },
+            {
+                 "title": "Rain Man",
+                 "year": 1998
+            }
+        ]
+    }
+]
