@@ -1,5 +1,3 @@
-package org.ardlema
-
 import org.scalatest.{GivenWhenThen, ShouldMatchers, FunSpec}
 import org.ardlema.utils.Http
 

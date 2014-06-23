@@ -1,5 +1,4 @@
-package org.ardlema
-
+import org.ardlema.Movie
 import org.scalatest.{GivenWhenThen, ShouldMatchers, FunSpec}
 
 

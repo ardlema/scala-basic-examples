@@ -1,5 +1,4 @@
-package org.ardlema
-
+import org.ardlema.StreamingUser
 import org.scalatest.{GivenWhenThen, ShouldMatchers, FunSpec}
 
 class StreamingUserTests

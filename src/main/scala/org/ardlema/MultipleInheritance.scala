@@ -15,8 +15,8 @@ trait RunningBird extends Bird {
 }
 
 class FlyingAndRunningBird
-  extends FlyingBird
-  with RunningBird
+  extends RunningBird
+  with FlyingBird
 
 object MultipleInheritance {
   def main(args: Array[String]) {
