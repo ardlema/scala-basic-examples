@@ -22,7 +22,7 @@ object MultipleInheritance {
   def main(args: Array[String]) {
       val flyingAndRunningChicken = new FlyingAndRunningBird
       val flyingAndRunningChickenSound = flyingAndRunningChicken.sound
-      println(s"Flying chicken sound: $flyingAndRunningChickenSound")
+      println(s"FlyingAndRunning chicken sound: $flyingAndRunningChickenSound")
   }
 }
 
